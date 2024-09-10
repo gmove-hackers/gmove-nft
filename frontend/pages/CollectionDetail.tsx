@@ -23,9 +23,9 @@ export function CollectionDetail() {
       <Header />
 
       {isLoading ? (
-        <div>Loading...</div>
+        <div className="max-w-screen-xl mx-auto p-4">Loading...</div>
       ) : !data ? (
-        <div>Collection not found</div>
+        <div className="max-w-screen-xl mx-auto p-4">Collection not found</div>
       ) : (
         <div className="max-w-screen-xl mx-auto py-3 bg-primary-foreground/90 rounded-xl text-primary overflow-hidden">
           <Table>
