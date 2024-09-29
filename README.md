@@ -1,7 +1,7 @@
 ## 🖼️ Move NFT Studio
 
 <h4 align="center">
-  <img src="public/hero.webp" alt="Logo" />
+  <img src="public/hero02.webp" alt="Logo" />
   <br>
   <br>
   <a href="https://gmove-nft.netlify.app/">Website</a> |
