@@ -37,7 +37,7 @@ This hackathon project is a proof of concept for the Move NFT Studio. We plan to
 ## Links
 - [Documentation](https://arjanjohan.gitbook.io/daily-gmove/)
 - [Demo video](https://rebrand.ly/move-nft-studio-demo)
-- [Pitch deck](https://docs.google.com/presentation/d/166SHLBoWVCxMQOaCA7fPwwnPoelFb6vO9JNKeuVSy6c/edit?usp=drive_link)
+- [Pitch deck](https://drive.google.com/file/d/1v8vilcXe8XM24IKxdI08PGuOI8JOnUR4/view?usp=sharing)
 - [Deployment on Movement Testnet](https://explorer.movementnetwork.xyz/account/0xf41a2d08728920f8c71f3a0d0ca3f37891d2d228fb8aea9e17ee10679f3713db/modules/code/launchpad?network=testnet)
 - [Deployment on Aptos Testnet](https://explorer.aptoslabs.com/account/0xf41a2d08728920f8c71f3a0d0ca3f37891d2d228fb8aea9e17ee10679f3713db/modules/code/launchpad?network=testnet)
 
