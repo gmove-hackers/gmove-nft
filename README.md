@@ -1,5 +1,5 @@
-## 🖼️ Move NFT Studio
-
+# 🖼️ Move NFT Studio
+### Unlock Infinite Creativity with Dynamic NFTs – No Code Required.
 <h4 align="center">
   <img src="public/hero02.webp" alt="Logo" />
   <br>
